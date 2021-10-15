@@ -7,13 +7,19 @@
     ],
     "dc:bibliographicCitation": "Birchall, Joshua, Michael Dunn, and Simon J. Greenhill. 2016. A combined comparative and phylogenetic analysis of the Chapacuran language family. International Journal of American Linguistics 82 (3): 255\u201384. doi: 10.1086/687383",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:hasPart": {
+        "dc:relation": "data.nex",
+        "dc:description": "The data underlying the analysis which created the phylogeny",
+        "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+    },
     "dc:identifier": "https://doi.org/10.1086/687383",
+    "dc:source": "sources.bib",
     "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-birchall_et_al2016",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-birchall_et_al2016",
             "rdf:type": "prov:Entity",
-            "dc:created": "688199d",
+            "dc:created": "4f9f629",
             "dc:title": "Repository"
         },
         {
