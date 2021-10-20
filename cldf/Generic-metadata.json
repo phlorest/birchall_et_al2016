@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-birchall_et_al2016",
             "rdf:type": "prov:Entity",
-            "dc:created": "4f9f629",
+            "dc:created": "63e6fc0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-29-gdadebb5fde",
+            "dc:created": "v4.4-36-g7235e0249f",
             "dc:title": "Glottolog"
         }
     ],
