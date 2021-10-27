@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-birchall_et_al2016",
             "rdf:type": "prov:Entity",
-            "dc:created": "ee8e4e5",
+            "dc:created": "01a9e57",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-50-g7e36072d31",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
@@ -47,6 +47,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "The LanguageTable lists the taxa, i.e. the leafs of the phylogeny, mapped to languoids.",
             "dc:extent": 10,
             "tableSchema": {
                 "columns": [
@@ -109,6 +110,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [
@@ -172,6 +177,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.",
             "dc:extent": 285,
             "tableSchema": {
                 "columns": [
@@ -210,6 +216,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
                         "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_Gloss"
                     }
                 ],
                 "primaryKey": [

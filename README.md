@@ -1,20 +1,24 @@
-# Chapacuran (Birchall et al. 2016):
+# Dataset birchall_et_al2016
 
-```
-Birchall, Joshua, Michael Dunn, and Simon J. Greenhill. 2016. A combined comparative and phylogenetic analysis of the Chapacuran language family. International Journal of American Linguistics 82 (3): 255–84. doi: 10.1086/687383
-```
+## How to cite
 
-* ID: birchall_et_al2016:
-* URL: [http://dx.doi.org/10.1086/687383](http://dx.doi.org/10.1086/687383)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: years
-* Taxa: 10 taxa 
-* Data: [data](data)
-* Nexus: [data.nex](data.nex)
-* Character Specification: 287 characters - [characters.csv](characters.csv)
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: [posterior.trees](posterior.trees)
+If you use these data please cite
+- the original source
+  > Birchall, Joshua, Michael Dunn, and Simon J. Greenhill. 2016. A combined comparative and phylogenetic analysis of the Chapacuran language family. International Journal of American Linguistics 82 (3): 255–84. doi: 10.1086/687383
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
+
+Available online at https://doi.org/10.1086/687383
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)
