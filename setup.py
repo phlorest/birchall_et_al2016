@@ -12,6 +12,7 @@ setup(
         ]
     },
     install_requires=[
+        'phlorest',
         'cldfbench',
     ],
     extras_require={
