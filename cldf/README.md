@@ -1,6 +1,6 @@
 <a name="ds-genericmetadatajson"> </a>
 
-# Generic Chapacuran (Birchall et al. 2016)
+# Generic Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family'
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
@@ -10,12 +10,10 @@ property | value
  --- | ---
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Birchall, Joshua, Michael Dunn, and Simon J. Greenhill. 2016. A combined comparative and phylogenetic analysis of the Chapacuran language family. International Journal of American Linguistics 82 (3): 255–84. doi: 10.1086/687383
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
-[dc:creator](http://purl.org/dc/terms/creator) | Birchall et al.
-[dc:hasPart](http://purl.org/dc/terms/hasPart) | <dl><dt><a href="http://purl.org/dc/terms/relation">dc:relation</a></dt><dd>data.nex</dd><dt><a href="http://purl.org/dc/terms/description">dc:description</a></dt><dd>The data underlying the analysis which created the phylogeny</dd><dt><a href="http://purl.org/dc/terms/format">dc:format</a></dt><dd>https://en.wikipedia.org/wiki/Nexus_file</dd></dl>
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1086/687383
-[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>scaling</dt><dd>years</dd><dt>analysis</dt><dd>bayesian</dd><dt>family</dt><dd>chap1271</dd></dl>
+[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Chapacuran [chap1271]</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/birchall_et_al2016
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/birchallchapacuran">https://github.com/lexibank/birchallchapacuran </a></li><li><a href="https://github.com/phlorest/birchall_et_al2016/tree/1df67b2">phlorest/birchall_et_al2016 1df67b2</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex </a></li><li><a href="https://github.com/phlorest/birchall_et_al2016/tree/a8ade81">phlorest/birchall_et_al2016 a8ade81</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | birchall_et_al2016
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
