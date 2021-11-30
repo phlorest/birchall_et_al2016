@@ -1,4 +1,4 @@
-# Dataset birchall_et_al2016
+# Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family'
 
 ## How to cite
 
@@ -9,6 +9,8 @@ If you use these data please cite
 
 ## Description
 
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
 Available online at https://doi.org/10.1086/687383
 
