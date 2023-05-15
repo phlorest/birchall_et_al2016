@@ -15,13 +15,16 @@ class Dataset(phlorest.Dataset):
             self.metadata,
             args.log)
 
-        posterior = self.raw_dir.read_trees(
-            'relaxed-binary-simple.time.trees.gz',
-            burnin=10000, sample=1000, detranslate=True)
-        args.writer.add_posterior(posterior, self.metadata, args.log)
+        args.writer.add_posterior(
+            self.raw_dir.read_trees(
+                'relaxed-binary-simple.time.trees.gz',
+                burnin=10000,
+                sample=1000,
+                detranslate=True),
+            self.metadata, 
+            args.log)
 
         args.writer.add_data(
             self.raw_dir.read_nexus('Chapacuran_Swadesh207-2019-labelled.nex'),
             self.characters, 
             args.log)
-
