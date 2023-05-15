@@ -11,5 +11,22 @@
         {
             "identifier": "dplace"
         }
+    ],
+    "creators": [
+        {
+            "name": "Joshua Birchall"
+        },
+        {
+            "name": "Michael Dunn"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        }
     ]
 }
