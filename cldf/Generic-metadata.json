@@ -25,15 +25,21 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
+            "rdf:about": "https://doi.org/10.5281/zenodo.5115888",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
+            "dc:format": "https://cldf.clld.org"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/birchall_et_al2016",
             "rdf:type": "prov:Entity",
-            "dc:created": "095a592",
+            "dc:created": "9832ff4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
