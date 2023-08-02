@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0,
+          -11.75
+        ]
+      },
+      "properties": {
+        "Name": "Cojubim",
+        "Glottocode": "kuyu1236",
+        "Glottolog_Name": "Kuyubi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.0,
+          -10.25
+        ]
+      },
+      "properties": {
+        "Name": "Jaru",
+        "Glottocode": "yaru1257",
+        "Glottolog_Name": "Yaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.75,
+          -16.0
+        ]
+      },
+      "properties": {
+        "Name": "Kitemoka",
+        "Glottocode": "kite1237",
+        "Glottolog_Name": "Kitemoka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.9841,
+          -12.2994
+        ]
+      },
+      "properties": {
+        "Name": "More",
+        "Glottocode": "iten1243",
+        "Glottolog_Name": "Itene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0299,
+          -10.737
+        ]
+      },
+      "properties": {
+        "Name": "OroWin",
+        "Glottocode": "orow1243",
+        "Glottolog_Name": "Oro Win"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2,
+          -14.8
+        ]
+      },
+      "properties": {
+        "Name": "Tapakura",
+        "Glottocode": "chap1269",
+        "Glottolog_Name": "Chapakura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7416,
+          -6.19532
+        ]
+      },
+      "properties": {
+        "Name": "Tora",
+        "Glottocode": "tora1263",
+        "Glottolog_Name": "Tor\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.75,
+          -10.25
+        ]
+      },
+      "properties": {
+        "Name": "Urupa",
+        "Glottocode": "urup1245",
+        "Glottolog_Name": "Urupa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1,
+          -12.1
+        ]
+      },
+      "properties": {
+        "Name": "Wanyam",
+        "Glottocode": "wany1246",
+        "Glottolog_Name": "Wanyam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.56152,
+          -10.69948
+        ]
+      },
+      "properties": {
+        "Name": "Wari",
+        "Glottocode": "wari1268",
+        "Glottolog_Name": "Wari'"
+      }
+    }
+  ]
+}
