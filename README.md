@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family'
 
 [![CLDF validation](https://github.com/phlorest/birchall_et_al2016/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/birchall_et_al2016/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248751.svg)](https://doi.org/10.5281/zenodo.8248751)
 
 ## How to cite
 
