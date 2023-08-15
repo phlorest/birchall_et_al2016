@@ -1,7 +1,6 @@
 {
     "related_identifiers": [
         {
-            "scheme": "url",
             "identifier": "https://doi.org/10.1086/687383",
             "relation": "isDerivedFrom"
         }
